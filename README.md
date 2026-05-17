@@ -27,13 +27,13 @@ This project develops a machine learning model to predict `Item_Outlet_Sales` ba
 
 #### 1. Outlet Type Is the Strongest Driver of Sales
 
-![Average Sales by Outlet Type](figure/outlet_type_sales(1).png)
+![Average Sales by Outlet Type](figure/outlet_type_sales.png)
 
 > Supermarket Type3 outlets generate substantially higher average sales than all other formats. Grocery Stores and Supermarket Type2 outlets trail far behind. This highlights store format as the single most impactful variable for revenue — and a critical factor for any future expansion or resource allocation decisions.
 
 #### 2. Item Fat Content Shows a Meaningful Sales Difference
 
-![Average Sales by Item Fat Content](figure/item_fat_content_sales(1).png)
+![Average Sales by Item Fat Content](figure/item_fat_content_sales.png)
 
 > Products labeled as **regular** fat content consistently outperform low fat items in average sales. Whether this reflects consumer purchasing preferences or the types of products that tend to fall into each category, it is a pattern worth considering when making shelf placement and promotional decisions.
 
